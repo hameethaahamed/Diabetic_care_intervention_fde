@@ -1,0 +1,6 @@
+requests
+fastapi==0.115.0
+starlette==0.37.2
+uvicorn==0.31.0
+psycopg[binary]
+dotenv

@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+.env
+
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+
+# Data files - review before committing
+*.csv
+*.xlsx
